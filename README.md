@@ -1,6 +1,6 @@
-# radium-corpus
-Radium corpus — Execution Governance for Complex Automated Systems
 # Radium Corpus
+Radium corpus — Execution Governance for Complex Automated Systems
+
 
 Radium explores a structural question in modern automated systems:
 
