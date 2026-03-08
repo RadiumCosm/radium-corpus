@@ -107,3 +107,9 @@ Majd Radium
 
 Majd
 Radium
+
+Archival DOI:
+https://doi.org/10.5281/zenodo.18906306
+
+Preprint:
+Radium Constrained Execution (RCE): A Runtime Model for Governing Machine Actions
