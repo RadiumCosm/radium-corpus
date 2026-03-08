@@ -1,0 +1,19 @@
+Radium Constrained Execution (RCE)
+
+This directory contains the reference preprint describing the
+Radium Constrained Execution runtime model.
+
+Title:
+Radium Constrained Execution (RCE): A Runtime Model for Governing Machine Actions
+
+Author:
+Majd Radium
+
+DOI:
+https://doi.org/10.5281/zenodo.18906306
+
+Canonical publication:
+https://radiumdefense.org
+
+This document introduces the RCE primitive for execution governance
+in automated and distributed infrastructures.
