@@ -1,115 +1,107 @@
-# Radium Corpus
+Radium Corpus
+What this repository is
 
-## What this repository is
+This repository is the public mirror of the Radium corpus.
 
-This repository is the public mirror of the **Radium corpus**.
-
-It contains the canonical documents describing the **Radium execution governance model** and the **RCE (Radium Constrained Execution) primitive**.
+It contains the canonical documents describing the Radium execution governance model and the RCE (Radium Constrained Execution) primitive.
 
 The canonical publication is available at:
 
 https://radiumdefense.org
 
----
-
-## Start here
+Start here
 
 If you are new to Radium, begin with:
 
-* The **Radium execution governance overview**
-* The **RCE primitive description**
-* The **doctrinal foundations of execution governance**
+the execution governance overview
+
+the RCE primitive description
+
+the doctrinal foundations of execution governance
 
 Radium explores a structural question in modern automated systems:
 
-**Who authorizes execution inside complex automated infrastructures?**
+Who authorizes execution inside complex automated infrastructures?
 
-Most existing architectures govern access through identity systems (IAM, RBAC, permissions).
+Most existing architectures govern access through identity systems such as IAM, RBAC, and permissions.
 
 Radium investigates a deeper layer:
 
-**execution governance.**
+execution governance.
 
-Traditional systems govern **access**.
-Radium governs **execution**.
+Traditional systems govern access.
+Radium governs execution.
 
----
-
-## Corpus structure
+Corpus structure
 
 The Radium corpus is organized into four document families:
 
-**Doctrines (RDF-CA)**
+Doctrines (RDF-CA)
 Foundational principles.
 
-**Frameworks (RDF-FW)**
+Frameworks (RDF-FW)
 Architectural structures.
 
-**Primitives (RDF-PR)**
+Primitives (RDF-PR)
 Technical enforcement mechanisms.
 
-**Annexes (RDF-AN)**
+Annexes (RDF-AN)
 Supporting technical material.
 
----
-
-## Repository structure
+Repository structure
 
 The repository is organized around a canonical corpus directory.
 
-```
 corpus/
  ├── corpus/        Canonical Radium corpus (doctrines, frameworks, primitives, annexes)
  ├── manifests/     Machine-readable corpus manifests
  ├── references/    External references and related work
  └── research/      Supplementary research material
-```
 
-The inner `corpus/` directory contains the **canonical Radium documents**.
+The inner corpus/ directory contains the canonical Radium documents.
 
-The surrounding directories provide **metadata, references, and research context** supporting the corpus.
+The surrounding directories provide metadata, references, and research context supporting the corpus.
 
----
+What this repository does NOT contain
 
-## What this repository does NOT contain
+This repository does not contain runtime source code or deployment packages.
 
-This repository **does not contain runtime source code or deployment packages**.
+It publishes the Radium corpus:
 
-It publishes the Radium corpus: doctrines, frameworks, primitives, and supporting research documents.
+doctrines
 
-The repository serves as a **public technical reference and archival node**.
+frameworks
 
----
+primitives
 
-## Canonical publication
+supporting research documents
 
-The official publication of the corpus is available at:
+The repository serves as a public technical reference and archival node.
+
+Canonical publication
+
+The official publication of the Radium corpus is available at:
 
 https://radiumdefense.org
 
-This repository provides a structured mirror of the Radium corpus for **technical reference, citation, and long-term archival**.
+This repository provides a structured mirror of the corpus for technical reference, citation, and long-term archival.
 
----
+Citation
 
-## Citation
-
-If you reference the Radium corpus in academic or technical work, please cite the canonical publication:
+If you reference the Radium corpus in academic or technical work, please cite:
 
 Radium Research
 Radium Corpus
 https://radiumdefense.org
 
----
+Archival DOI
 
-## Author
-
-Majd Radium
-
-Majd
-Radium
-
-Archival DOI:
 https://doi.org/10.5281/zenodo.18906306
 
-Preprint:
+Preprint
+
 Radium Constrained Execution (RCE): A Runtime Model for Governing Machine Actions
+
+Author
+
+Majd Radium
