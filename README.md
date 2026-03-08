@@ -1,6 +1,7 @@
 Radium Corpus
 
-What this repository is
+
+What this repository is/
 
 This repository is the public mirror of the Radium corpus.
 
@@ -28,7 +29,7 @@ Most existing architectures govern access through identity systems such as IAM, 
 
 Radium investigates a deeper layer:
 
-execution governance.
+execution governance
 
 Traditional systems govern access.
 Radium governs execution.
@@ -85,7 +86,7 @@ The official publication of the Radium corpus is available at:
 
 https://radiumdefense.org
 
-This repository provides a structured mirror of the corpus for technical reference, citation, and long-term archival.
+This repository provides a structured mirror of the Radium corpus for technical reference, citation, and long-term archival.
 
 Citation
 
